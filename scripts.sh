@@ -1,6 +1,6 @@
 # .bash_profile
 
-##esta es la primera modificacion de un archivo que hago en github
+##Second modification
 
 # Get the aliases and functions
 if [ -f ~/.bashrc ]; then
